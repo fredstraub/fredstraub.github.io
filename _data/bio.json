@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Fred Straub",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/fred.png",
+    "email": "fstraub.edu",
+    "phone": "",
+    "website": "https://fredstraub.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96819",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,22 +17,22 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "fredstraub",
+        "url": "http://github.com/fredstraub"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Frederick Straub",
+        "url": "http://linkedin.com/in/frederick-straub-857784179"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "",
         "url": "http://instagram.com/changeme"
       }
     ]

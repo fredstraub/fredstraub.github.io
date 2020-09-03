@@ -1,25 +1,32 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/web.jpg
+title: Web Design Project
+permalink: projects/Web Design
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-12-20
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - HTML
+  - CSS
+  - Wordpress
+  - MySQLi
+summary: A responsive web site as my final project for the Wbe Design Certificate.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+This responsive site was the final project for the Web Design Certificate I earned at the Santa Rosa Junior College.  I used HTML, CSS, and MySQLi on a Wordpress CMS. I had to create and edit all of my own content using AdobeCreativeCloud applications.  In this project I had to combine all of the skills and tools I had leanred to use for a full-stack project.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+<img class="ui medium right floated rounded image" src="../images/Home.jpg">
+<img class="ui medium right floated rounded image" src="../images/0.jpg">
+<img class="ui medium right floated rounded image" src="../images/1.jpg">
+<img class="ui medium right floated rounded image" src="../images/2.jpg">
+<img class="ui medium right floated rounded image" src="../images/3.jpg">
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Unfortunately the project was hosted on Cloud9, before that site ended its education support.  I have these photos of screen shots fromthe site while it was active. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+<img class="ui medium right floated rounded image" src="../images/4.jpg">
+<img class="ui medium right floated rounded image" src="../images/5.jpg">
+<img class="ui medium right floated rounded image" src="../images/6.jpg">
+<img class="ui medium right floated rounded image" src="../images/7.jpg">
+<img class="ui medium right floated rounded image" src="../images/8.jpg">
+<img class="ui medium right floated rounded image" src="../images/9.jpg">

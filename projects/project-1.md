@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/GSLC.jpg
+title: GSLC Website
+permalink: projects/GSLC
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-05-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Web design
+  - PHP
+  - Web Developement
+summary: My team developed a website for a nonprofit as our Web Developement Certificate capstone project.
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +20,16 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The final class at the Santa Rosa Junior College for the Web Development Certificate is service-based.  The class is also the capstone class for Sound Media and Film certificates.  The college works with local nonprofits offering help with websites, radio, and film production.  In the class, we treat the projects as if we were small businesses and the nonprofits are clients.  The professors are only there to guide and help with collaboration between the different types of students, as we were encouraged to utilize the skill of all the different students to make the project better.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, we used the SCRUM method with short sprint cycles.  I ended up in the role of Scrum Master, and developer.  Our nonprofit was the Golden State Land Conservancy.  They had a self-built site from the early 1990s that was very bad looking and had may functional problems.  We completely discarded the site and through many meetings and iterations got to a product that the client loved.
 
-Here is some code that illustrates how we read values from the line sensors:
+The client ultimately wanted a theme that was developed by a third-party, which was purchased and deployed using WordPress.  We found a cost-saving hosting company for the client and migrated to the finished site.  Using the third-party theme was a great lesson in the importance of clear and concise documentation.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+Occasionally this nonprofit reaches out to me for help updating and answering questions about thier site.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+
+You can visit the site here [Golden State Land Conservancy](http://gslc.us).
 
 
 

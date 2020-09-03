@@ -15,7 +15,7 @@ summary: My team developed a website for a nonprofit as our Web Developement Cer
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/gslc2.jpg">
-  <img class="ui image" src="../images/gslc3.jpg">
+  <img class="ui image" src="../images/gslc3.jpeg">
 </div>
 
 The final class at the Santa Rosa Junior College for the Web Development Certificate is service-based.  The class is also the capstone class for Sound Media and Film certificates.  The college works with local nonprofits offering help with websites, radio, and film production.  In the class, we treat the projects as if we were small businesses and the nonprofits are clients.  The professors are only there to guide and help with collaboration between the different types of students, as we were encouraged to utilize the skill of all the different students to make the project better.

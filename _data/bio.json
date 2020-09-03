@@ -2,7 +2,7 @@
   "basics": {
     "name": "Fred Straub",
     "label": "Student",
-    "picture": "https://fredstraub.github.io/images/fred.png",
+    "picture": "https://fredstraub.github.io/images/fred.jpg",
     "email": "fstraub.edu",
     "phone": "",
     "website": "https://fredstraub.github.io",
@@ -29,19 +29,20 @@
   },
   "interests": [
     {
-      "name": "networking",
+      "name": "Networking/Secuirty",
       "keywords": [
-        "BASH",
-        "cloud"
+              ]
+    },
+    {
+      "name": "Software Developement",
+      "keywords": [
+        "C++",
+        "Java",
+        "JavaScript"
       ]
     },
     {
-      "name": "secuirty",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "CI/CD",
+      "name": "Web Developement",
       "keywords": [
       ]
     }
@@ -59,7 +60,10 @@
         "Bash",
         "CSS",
         "PHP",
-        "MySQLi"
+        "MySQLi",
+        "Bootstrap",
+        "Sass",
+        "Less"
       ]
     },
     {
@@ -77,9 +81,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2021)",
+      "studyType": "B.A.",
+      "startDate": "2019-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -88,36 +92,23 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "SimplexGrinnell",
+      "position": "FireSpinkler Foreman",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2004-05-01",
+      "endDate": "2019-05-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Supervised a variety of team projects to resolve challenges in compliance creation and delivering safety protection items."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Hawaii Foodbank",
+      "website": "http://hawaiifoodbank.org/",
+      "position": "Volunteer",
+      "startDate": "2019-12-14",
       "endDate": "Present",
       "summary": "Lead developer for weather sensing project",
       "highlights": [

@@ -2,7 +2,7 @@
   "basics": {
     "name": "Fred Straub",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/fred.png",
+    "picture": "https://fredstraub.github.io/images/fred.png",
     "email": "fstraub.edu",
     "phone": "",
     "website": "https://fredstraub.github.io",
@@ -24,34 +24,24 @@
         "network": "linkedin",
         "username": "Frederick Straub",
         "url": "http://linkedin.com/in/frederick-straub-857784179"
-      },
-      {
-        "network": "twitter",
-        "username": "",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "networking",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "BASH",
+        "cloud"
       ]
     },
     {
-      "name": "data mining",
+      "name": "secuirty",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "CI/CD",
       "keywords": [
       ]
     }
@@ -61,12 +51,15 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
         "C++",
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "HTML",
+        "Bash",
+        "CSS",
+        "PHP",
+        "MySQLi"
       ]
     },
     {
@@ -76,8 +69,8 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "PI/Arm"
       ]
     }
   ],

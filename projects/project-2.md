@@ -22,11 +22,18 @@ I used HTML, CSS, and MySQLi on a WordPress CMS. I had to create and edit all my
 
 In this project I had to combine all the skills and tools I had learned to use for a full-stack project. Unfortunately, the project was hosted on Cloud9, before that site ended its education support.  I have these photos of screen shots from the site while it was active. 
 
-<div class="ui small images">
+<div class="ui medium images">
   <img src="../images/Home.JPG">
   <img src="../images/0.JPG">
   <img src="../images/1.JPG">
   <img src="../images/2.JPG">
+  <img src="../images/3.JPG">
+  <img src="../images/4.JPG">
+  <img src="../images/5.JPG">
+  <img src="../images/6.JPG">
+  <img src="../images/7.JPG">
+  <img src="../images/8.JPG">
+  <img src="../images/9.JPG">
 </div>
 
 <img class="ui medium right floated rounded image" src="../images/Home.JPG">

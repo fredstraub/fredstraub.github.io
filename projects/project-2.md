@@ -35,15 +35,3 @@ In this project I had to combine all the skills and tools I had learned to use f
   <img src="../images/8.JPG">
   <img src="../images/9.JPG">
 </div>
-
-<img class="ui medium right floated rounded image" src="../images/Home.JPG">
-<img class="ui medium right floated rounded image" src="../images/0.JPG">
-<img class="ui medium right floated rounded image" src="../images/1.JPG">
-<img class="ui medium right floated rounded image" src="../images/2.JPG">
-<img class="ui medium right floated rounded image" src="../images/3.JPG">
-<img class="ui medium right floated rounded image" src="../images/4.JPG">
-<img class="ui medium right floated rounded image" src="../images/5.JPG">
-<img class="ui medium right floated rounded image" src="../images/6.JPG">
-<img class="ui medium right floated rounded image" src="../images/7.JPG">
-<img class="ui medium right floated rounded image" src="../images/8.JPG">
-<img class="ui medium right floated rounded image" src="../images/9.JPG">

@@ -20,7 +20,7 @@ console.log(typeof 4.5)
 
 ``` 
 
-I still have the bookmark Eloquent JavaScript and that was the first example of using the console in the book.  I followed every exercise and completed the class with a good grade.  I still did not know how useful JavaScript could be. 
+I still have the bookmark [Eloquent JavaScript](https://eloquentjavascript.net/) and that was the first example of using the console in the book.  I followed every exercise and completed the class with a good grade.  I still did not know how useful JavaScript could be. 
 
 I had several more semesters, mostly a new language each semester. In school doing mostly web design and development, JavaScript was a language used to modify existing pieces of code from the libraries we wanted to use.  It was limited to creating visual changes on websites, and light processing of functions. I did not have an appreciation for it as a “normal” programming language like C++ or Java. 
 

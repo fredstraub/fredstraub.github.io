@@ -20,9 +20,12 @@ The path that interests me most is Continuous Integration and Continuous Develop
 
 <div class="ui medium images">
   <img src="../images/Devops.png">
-  <img src="../images/devOps2.png">
- </div>
+</div>
 
 My friends with these positions are constantly learning new languages, applications, and hardware specifications.  They are excited to be on the front line of their companies, having to stay informed about the latest projects and technology.  They usually work remotely (even before COVID) and often on-call.  Aside from making sure all the newest changes are deployed successfully, they are also responsible for resolving problems that haven't occurred yet by writing solutions that prevent or respond to as many potential scenarios as they can imagine. 
+
+<div class="ui medium images">
+    <img src="../images/devOps2.png">
+</div>
 
 My work history is primarily in leading teams and working with multiple organizations at a time.  I have also almost always had an emergency response element throughout my work history with many on-call duties.  I enjoy ever-changing workplaces and being on the leading edge of new ideas.  This semester I am taking a Software Development class, as well as Databases Design and the prequisite class for Security classes.  I plan on taking more security and networking classes in the future as I move closer to my goal.

@@ -12,7 +12,7 @@ labels:
 
 In my first introductory programming class the first lecture included the ominous warning from my professor, I can't stop you from using stackoverflow.com, but I will be able to tell if you copy code from it, so don't.  I had never heard of stackoverflow.com, I assumed it was a website, so of course, I had to look.  I was too new to know what I was looking at, I didn't understand any of it, and I wasn't inclined to find shortcuts on homework, as I already know how that affected one's test scores.   
 
-<div class="ui medium images">
+<div class="ui large images">
   <img src="../images/triangle.png">
 </div>
 

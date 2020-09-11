@@ -12,6 +12,10 @@ labels:
 
 In my first introductory programming class the first lecture included the ominous warning from my professor, I can't stop you from using stackoverflow.com, but I will be able to tell if you copy code from it, so don't.  I had never heard of stackoverflow.com, I assumed it was a website, so of course, I had to look.  I was too new to know what I was looking at, I didn't understand any of it, and I wasn't inclined to find shortcuts on homework, as I already know how that affected one's test scores.   
 
+<div class="ui medium images">
+  <img src="../images/triangle.png">
+</div>
+
 A few weeks into the class, one of my classmates mentioned that stackoverflow.com helped him with an assignment after I mentioned that I spent the whole weekend trying to draw triangles with *'s.  When in the following week I got stuck, I typed in many variations of what I thought I needed help with, but nothing yielded results that I could even understand.   I finally stumbled across a post that seemed similar and the response was something like "DO YOUR OWN HOMEWORK! Most teachers would consider this cheating!"  There was another comment about wasting your time in school if you're going to cheat.  But noticeably there was no answer.  
 
 This user posted a link to their homework assignment; ["Can anyone check these to see if I did them correctly. Thanks * Also I'm not sure on how to do number 8 if anyone can help me out that should be awesome. "](https://stackoverflow.com/q/32875985) followed by a link.  This is the replies; "This is not your free homework-checking service." "Please copy the content into the question body. Nobody wants to go to your link."  

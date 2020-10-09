@@ -8,9 +8,7 @@ labels:
   - Bootstrap
   - Semantic UI
   - Web Design
----
-
-#Different Tools for Different Jobs 
+--- 
 
 When I took the classes for Web Development at the local junior college, I remember that learning HTML was only the beginning.  I had already taken two consecutive C++ programming classes and I could draw a triangle of asterixis on the screen and had a beginning understanding of conditional statements and object-oriented programming.  But HTML was an instantaneous visualization tool.  It felt like drawing with words on a screen.  If HTML was a pencil, CSS (the next language) added an entire art store’s worth of options for me to use on the screen.  These were all static pages, they did nothing, and nothing changed when the windows were increased or decreased. 
 

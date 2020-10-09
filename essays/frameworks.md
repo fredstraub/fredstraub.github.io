@@ -14,7 +14,7 @@ When I took the classes for Web Development at the local junior college, I remem
 
 We were told we would eventually get into learning about frameworks, and CSS preprocessors but first we began learning about JavaScript and how to use it on web pages.  So now my projects were enormous.  Almost every HTML element had a class, many had id’s as well.  This all correlated with detailed CSS files, as I got more practice I could us my classes and id’s more strategically, leading to smaller CSS files.  Mixed in all of that was JavaScript script elements, trying to add functionality to my pages.  There had to be an easier way to do all of this. 
 
-##Frameworks make web design easier.## 
+## Frameworks make web design easier. 
 
 That’s when we got to use [Bootstrap](https://getbootstrap.com/).  It felt like everything I knew went out the window and I was starting new again.  The Bootstrap elements had all the CSS and functionality baked in.  The names of the elements didn’t always make sense as to their output on the screen.  On top of that, the Bootstrap elements could be adjusted by changing my CSS files. 
 
@@ -26,7 +26,7 @@ In my software development class, we are speeding through languages and uses, af
 
 I liked that the Semantic elements were easy to implement in the class of the div.  It easy to tell them apart from other classes as “ui” is part of the class name.  The documentation feels a little easier to navigate that Bootstrap, perhaps because there are fewer elements and less adjustability.  One of our assignments was to use Semantic UI to copy an existing web page.  It was supposed to be a perfect copy, nor have all the functionality, but I was up for a challenge. 
 
-##Features or Ease of Use## 
+## Features or Ease of Use
 
 The page I picked, [Costco](https://www.costco.com/), has a carousel near the top.  Carousels are one of my favorite design elements.  They were tricky at first to learn, then bootstrap made them infinitely easier, but they are worth the effort. I couldn’t find a carousel in the Semantic UI documentation.  My google search revealed that I needed to integrate additional libraries to get a working carousel (this was outside of the scope of the assignment). 
 

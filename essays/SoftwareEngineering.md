@@ -10,7 +10,15 @@ labels:
   - Project Management
 ---
 
-I just started my first job at a software [company](https://www.elementanalytics.com/). We work with industiral IT and OT applications. My first question when I was told about the position was “What languages do I need to know?” I had it still in my mind that software engineering is all about what language(s) you know and how fast you can generate code. Even during my interview, they asked me to code in Python, a language I have still not used in school, I said that I would have to look at Google to figure it out, and they told me of course.  I was convinced that was the end of the interview and the technical viewer was just being nice to me.    
+I just started my first job at a software [company](https://www.elementanalytics.com/). We work with industiral IT and OT applications. My first question when I was told about the position was “What languages do I need to know?” I had it still in my mind that software engineering is all about what language(s) you know and how fast you can generate code. Even during my interview, they asked me to code in Python, a language I have still not used in school, I said that I would have to look at Google to figure it out, and they told me of course.  I was convinced that was the end of the interview and the technical viewer was just being nice to me.
+
+``` Python
+var arr = []; 
+
+for(var i in obj) arr[+i.substring(1)] = obj[i];
+
+arr = arr.filter(function(i) {  return i || false; });
+```
 
 I got the job and I have still not used a single line of code from any of the computer languages that I learned in my college [software engineering class](http://courses.ics.hawaii.edu/ics314f20/). But there are several things I learned in my software engineering class that we used for developing web applications that carried over into the new job. The very first thing I did when I started was how we set up the computer they mailed me.    
 

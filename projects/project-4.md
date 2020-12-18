@@ -13,7 +13,7 @@ labels:
 summary: Our team created a visualization application for our Final Project submission.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/M3-Landing-Page-with-nav.png">
 </div>
 ### Landing page
@@ -24,7 +24,7 @@ The application we built is a data visulization tool, that color-codes the build
 
 The project was scheduled to take several week's with three milestones.  We used the Agile software development model along with Issue Driven Project Management as tools to help us finish and to experience some industry practices along the way.  By the time we started this project we had become familiar with GitHub and were going to use that for tracking our issues.  We used IntelliJ as our developement environment, and learned to implement GitHub CI into our code pushes. We set up automatic test configurations, and learned how to obtain a URL and deployed the site to a web service.  We made the site using a template that we had used in class already.
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/M3-Login-page.png">
 </div>
 ### User Login page
@@ -36,7 +36,7 @@ During this project there were a few issues that each of us worked on, for me th
 
 As a group we had to learn to communicate more as we progressed.  It was challenging to have worked the whole semester remotely, never seeing my classmates adn then transitioning to team work.  As a group we collaborated alot on the final javaScript code to get to site to function.  Getting the templete and the Javascript library [Leaflet](https://leafletjs.com/reference-1.7.1.html)(our mappping resource) to work together was final speedbump at the end.
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/M3-Edit-page-datas.png">
 </div>
 ### Data upload page

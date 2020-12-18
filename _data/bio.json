@@ -6,7 +6,7 @@
     "email": "fstraub.edu",
     "phone": "",
     "website": "https://fredstraub.github.io",
-    "summary": "I am studying for a B.A. in Information and Computer Sciences at the Computer Science Department of the University of Hawaii at Manoa. I expect to graduate in Fall, 2021.",
+    "summary": "I am studying for a B.A. in Information and Computer Sciences at the Computer Science Department of the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "96819",
@@ -97,12 +97,24 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.A.",
       "startDate": "2019-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+      ]
+    },
+    {
+      "institution": "Santa Rosa Junior College, Santa Rosa, CA",
+      "area": "Computer Science",
+      "studyType": "A.S., Certificates",
+      "startDate": "2017-09-01",
+      "endDate": "2019-05-17",
+      "gpa": "",
+      "courses": [
+        "Web Fundamentals Certificate - Fall 2018",
+        "Web Programmer Certificate - Spring 2019"
       ]
     }
   ],

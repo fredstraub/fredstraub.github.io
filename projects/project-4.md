@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/occupancyHome.png
+image: images/M3-Landing_Page-with-nav.png
 title: Campus-Occupancy
 permalink: projects/Campus-Occupancy
 # All dates must be YYYY-MM-DD format!
@@ -14,20 +14,25 @@ summary: Our team created a visualization application for our Final Project subm
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/gslc2.jpg">
-  <img class="ui image" src="../images/gslc3.jpeg">
+  <img class="ui image" src="../images/M3-Landing-Page-with-nav.png">
+  <img class="ui image" src="../images/M3-Login-page.png">
+  <img class="ui image" src="../images/M3-Edit-page-data.png">
 </div>
 
-The final class at the Santa Rosa Junior College for the Web Development Certificate is service-based.  The class is also the capstone class for Sound Media and Film certificates.  The college works with local nonprofits offering help with websites, radio, and film production.  In the class, we treat the projects as if we were small businesses and the nonprofits are clients.  The professors are only there to guide and help with collaboration between the different types of students, as we were encouraged to utilize the skill of all the different students to make the project better.
+[Marcos Buccat](https://buccatm.github.io/), [Caliana Fortin](https://calianafortin.github.io/) and I had earlier in the semester begun the process of joining the [HAAC2020](https://hacc.hawaii.gov/) competition planning on doing the UH-Occupancy project.  We all decided we didnt have time to compete in the contest.  A few weeks later the final project in our class started. We were a team again and we set out to complete the same project from the HAAC2020 contest as our final project.
 
-For this project, we used the SCRUM method with short sprint cycles.  I ended up in the role of Scrum Master, and developer.  Our nonprofit was the Golden State Land Conservancy.  They had a self-built site from the early 1990s that was very bad looking and had may functional problems.  We completely discarded the site and through many meetings and iterations got to a product that the client loved.
+The application we built is a data visulization tool, that color-codes the buildings on the University of Hawaii at Manoa based upon their occupancy.  The tool is intended for the campus administration to see how people are grouped during the day to make improvements due to the coronoavirus social distancing guidelines.  It uses data given to us by the university that shows how many devices are connected to wi-fi access points in three hour increments.
 
-The client ultimately wanted a theme that was developed by a third-party, which was purchased and deployed using WordPress.  We found a cost-saving hosting company for the client and migrated to the finished site.  Using the third-party theme was a great lesson in the importance of clear and concise documentation.
+The project was scheduled to take several week's with three milestones.  We used the Agile software development model along with Issue Driven Project Management as tools to help us finish and to experience some industry practices along the way.  By the time we started this project we had become familiar with GitHub and were going to use that for tracking our issues.  We used IntelliJ as our developement environment, and learned to implement GitHub CI into our code pushes. We set up automatic test configurations, and learned how to obtain a URL and deployed the site to a web service.  We made the site using a template that we had used in class already.
 
-Occasionally this nonprofit reaches out to me for help updating and answering questions about thier site.
+During this project there were a few issues that each of us worked on, for me the biggest learning experiences resulted from:
+1) Writing the tests for the automatic testing that was implemented in the GitHub CI.
+2) Learning how to delploy the site to the web, including the tools to check the status of the collections and data when it was delpoyed.
+3) Figuring out how to turn 19,000 line JSON files into useful 600 line files.
 
+As a group we had to learn to communicate more as we progressed.  It was challenging to have worked the whole semester remotely, never seeing my classmates adn then transitioning to team work.  As a group we collaborated alot on the final javaScript code to get to site to function.  Getting the templete and the Javascript library [Leaflet](https://leafletjs.com/reference-1.7.1.html)(our mappping resource) to work together was final speedbump at the end.
 
-You can visit the site here [Golden State Land Conservancy](http://gslc.us).
-
-
+You can visit the site here [Campus-Occupancy](https://campus-occupancy.top/#/).
+The GitHub Project page is here [Campus-Occupany](https://campus-occupancy.github.io/)
+The GitHub code repo is here [campus-occupancy](https://github.com/campus-occupancy/campus-occupancy)
 

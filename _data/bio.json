@@ -6,7 +6,7 @@
     "email": "fstraub.edu",
     "phone": "",
     "website": "https://fredstraub.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
       "postalCode": "96819",
@@ -39,11 +39,21 @@
         "C++",
         "Java",
         "JavaScript"
+        "YAML"
+        "Bash"
+        "Python"
       ]
     },
     {
       "name": "Web Developement",
       "keywords": [
+        "Mobile Applications"
+      ]
+    },
+    {
+      "name": "Virtual Reality",
+      "keywords": [
+        "Virtual Workspaces"
       ]
     }
   ],
@@ -75,6 +85,12 @@
         "Git/GitHub",
         "Windows",
         "PI/Arm"
+        "Meteor"
+        "IntelliJ"
+        "VS Code"
+        "CLI temrinal"
+        "Azure"
+        "Terraform"
       ]
     }
   ],
@@ -91,6 +107,17 @@
     }
   ],
   "work": [
+    {
+      "company": "Element Analytics",
+      "position": "Engineering Intern",
+      "website": "www.elementanalytics.com",
+      "startDate": "2004-10-20",
+      "endDate": "Present",
+      "summary": "Intern in the devOps Department",
+      "highlights": [
+        "Deploy resources and verify docmentation validity and accuracy."
+      ]
+    }
     {
       "company": "SimplexGrinnell",
       "position": "FireSpinkler Foreman",

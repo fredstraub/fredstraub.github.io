@@ -110,14 +110,14 @@
     {
       "company": "Element Analytics",
       "position": "Engineering Intern",
-      "website": "www.elementanalytics.com",
+      "website": "https://www.elementanalytics.com",
       "startDate": "2004-10-20",
       "endDate": "Present",
       "summary": "Intern in the devOps Department",
       "highlights": [
         "Deploy resources and verify docmentation validity and accuracy."
       ]
-    }
+    },
     {
       "company": "SimplexGrinnell",
       "position": "FireSpinkler Foreman",

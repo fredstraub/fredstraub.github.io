@@ -16,7 +16,7 @@ summary: Our team created a visualization application for our Final Project subm
 <div class="ui small rounded images">
   <img class="ui image" src="../images/M3-Landing-Page-with-nav.png">
   <img class="ui image" src="../images/M3-Login-page.png">
-  <img class="ui image" src="../images/M3-Edit-page-data.png">
+  <img class="ui image" src="../images/M3-Edit-page-datas.png">
 </div>
 
 [Marcos Buccat](https://buccatm.github.io/), [Caliana Fortin](https://calianafortin.github.io/) and I had earlier in the semester begun the process of joining the [HAAC2020](https://hacc.hawaii.gov/) competition planning on doing the UH-Occupancy project.  We all decided we didnt have time to compete in the contest.  A few weeks later the final project in our class started. We were a team again and we set out to complete the same project from the HAAC2020 contest as our final project.

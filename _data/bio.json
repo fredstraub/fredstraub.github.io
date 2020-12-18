@@ -38,9 +38,9 @@
       "keywords": [
         "C++",
         "Java",
-        "JavaScript"
-        "YAML"
-        "Bash"
+        "JavaScript",
+        "YAML",
+        "Bash",
         "Python"
       ]
     },
@@ -84,12 +84,12 @@
         "Ubuntu",
         "Git/GitHub",
         "Windows",
-        "PI/Arm"
-        "Meteor"
-        "IntelliJ"
-        "VS Code"
-        "CLI temrinal"
-        "Azure"
+        "PI/Arm",
+        "Meteor",
+        "IntelliJ",
+        "VS Code",
+        "CLI temrinal",
+        "Azure",
         "Terraform"
       ]
     }
